@@ -10,8 +10,10 @@ Wpf版本的SVGA[https://svga.dev/integrated.html] 特效文件播放器
 实现Windows端的SVGA文件播放
 
 #### 提示
- <u>需要WPF源码可Wx联系我</u><br />
-Avalonia 版本已经研发出来，经测试Windows、MacOS、Web、Andorid、IOS均可使用
+需要WPF源码可Wx联系我<br />
+Avalonia 版本已经研发出来，经测试Windows、MacOS、Web、Andorid、IOS均可使用<br />
+
+腾讯Vap [https://github.com/Tencent/vap] 动画特效融合解码也有WPF版本。跨平台还在研发中
 
  
 #### 支持本仓库
