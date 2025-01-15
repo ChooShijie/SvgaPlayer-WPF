@@ -2,10 +2,10 @@
 
 
 #### 介绍
-Wpf版本的SVGA[https://svga.dev/integrated.html]特效文件播放器
+Wpf版本的SVGA[https://svga.dev/integrated.html] 特效文件播放器
 
 #### 软件架构
-根据svga官网文档[https://svga.dev/integrated.html]以及github[https://github.com/svga]，采用C#+WPF开发。
+根据svga官网文档[https://svga.dev/integrated.html] 以及 github[https://github.com/svga] ，采用C#+WPF开发。
 实现Windows端的SVGA文件播放
 
 #### 提示
