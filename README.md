@@ -6,11 +6,11 @@
 Wpf版本的SVGA[https://svga.dev/integrated.html] 特效文件播放器
 
 #### 软件架构
-根据svga官网文档[https://svga.dev/integrated.html] 以及 github[https://github.com/svga] ，采用C#+WPF开发。
+根据svga官网文档[https://svga.dev/integrated.html] 以及 github[https://github.com/svga] ，采用C#+WPF开发。<br />
 实现Windows端的SVGA文件播放
 
 #### 提示
- <u>需要WPF源码可Wx联系我</u>
+ <u>需要WPF源码可Wx联系我</u><br />
 Avalonia 版本已经研发出来，经测试Windows、MacOS、Web、Andorid、IOS均可使用
 
  
@@ -19,8 +19,8 @@ Avalonia 版本已经研发出来，经测试Windows、MacOS、Web、Andorid、I
 
 #### 使用说明
 
-1.下载AnimationPlay.dll就可以直接使用
-2.项目引用AnimationPlay.dll
+1.下载AnimationPlay.dll就可以直接使用<br />
+2.项目引用AnimationPlay.dll<br />
 3.
 ```c#
  using AnimationPlay.Special;
