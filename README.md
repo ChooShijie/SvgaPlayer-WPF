@@ -21,10 +21,11 @@ Avalonia 版本已经研发出来，经测试Windows、MacOS、Web、Andorid、I
 1.下载AnimationPlay.dll就可以直接使用
 2.项目引用AnimationPlay.dll
 3.
+### Taro
  using AnimationPlay.Special;
  AnimationPlayerControl svga = new AnimationPlayerControl();
  svga.SourceUri = "pack://application:,,,/wpfapp1;Component/333333333333333.svga";
-
+```
 
 #### 感谢或联系作者
 
