@@ -32,6 +32,7 @@ Avalonia 版本已经研发出来，经测试Windows、MacOS、Web、Andorid、I
 
 #### 感谢或联系作者
 
-![image](https://github.com/user-attachments/assets/f3c2d40f-36f2-472a-acfe-f4c53efbc27a)
+![13ac0ef060d2116254952f5ad5ac207](https://github.com/user-attachments/assets/798b819a-8757-4a27-ada1-3d72be5e89d7)
+
 
 
